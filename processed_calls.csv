@@ -1,0 +1,2 @@
+msisdn,domain,call_id,fdr_count,total_volume_kb,start_time,end_time,call_duration_sec,kbps,isAudio,isVideo
+3,app4,7,2,15930.02734375,2021-04-02 17:38:02,2021-04-02 17:57:03,1141.0,13.961461288158228,True,False
